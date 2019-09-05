@@ -1,1 +1,1 @@
-use simple pyquery and request module to build a simple PTT crawler
+use simple pyquery and requests module to build a simple PTT crawler
